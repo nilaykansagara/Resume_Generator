@@ -1,0 +1,116 @@
+#cv-template {
+    display: none;
+  }
+  
+  /* .myimg{
+    border: 2px solid black;
+    border-radius: 100%;
+    width: 300;
+    height: 300;
+    margin-left: 5%;
+  } */
+  
+  #cv-template {
+      display: none;
+  }
+  
+  .myimg{
+      border: 2px solid #353434;
+      border-radius: 0%;
+      width: 221px;
+      max-height: 168px;
+      min-height: 168px;
+  }
+  
+  .background1{
+      background-color: #353434;
+      color: white;
+  }
+  
+  .background2{
+    background-color: #cfcfcf;
+  }
+  
+  
+  .card-head{
+      padding: .5rem 1rem;
+      margin-bottom: 0;
+      border-bottom: 1px solid rgba(0,0,0,.125);
+  }
+  
+  .bt {
+      display: inline-block;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      text-align: center;
+      text-decoration: none;
+      vertical-align: middle;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+      border: 1px solid transparent;
+      padding: .375rem .75rem;
+      font-size: 1rem;
+      border-radius: .25rem;
+      transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+  
+  .card-head{
+    padding: .5rem 1rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+  }
+  
+  .wth{
+    width: 75%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: 10%;
+    margin-left: 10%;
+    border-top: 3px;
+  }
+  
+  .bt {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  
+  .rght{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 7%;
+  }
+  
+  .rbn{
+    background-color: grey;
+    background-position: center;
+    background-size: 100% 3%;
+    padding: 1px;
+  }
+  
+  .cnt{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  
+  .rbn2{
+    background-color: grey;
+    background-size: 100% 10%;
+    padding: 61px;
+  }
